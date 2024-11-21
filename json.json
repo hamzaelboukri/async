@@ -1,0 +1,52 @@
+[
+    {
+        "name": "movier1",
+        "description": "Helicarrier lab Tension is high and the team is arguing about Loki's plan and their own differences",
+        "Characters": ["Tony Stark", "Steve Rogers", "Thor", "Bruce Banner"]
+    },
+    {
+        "name": "movier2",
+        "description": "A thrilling chase between the Avengers and Ultron, showcasing teamwork and personal struggles",
+        "Characters": ["Natasha Romanoff", "Clint Barton", "Pietro Maximoff", "Wanda Maximoff"]
+    },
+    {
+        "name": "movier3",
+        "description": "A cosmic battle against Thanos where the Avengers and Guardians unite for a common cause",
+        "Characters": ["Peter Quill", "Gamora", "Rocket", "Groot"]
+    },
+    {
+        "name": "movier4",
+        "description": "An emotional moment when the Avengers regroup after their defeat and plan their next move",
+        "Characters": ["Steve Rogers", "Tony Stark", "Natasha Romanoff", "Bruce Banner"]
+    },
+    {
+        "name": "movier5",
+        "description": "A high-stakes mission to retrieve the Infinity Stones through time travel",
+        "Characters": ["Scott Lang", "Steve Rogers", "Tony Stark", "Thor"]
+    },
+    {
+        "name": "movier6",
+        "description": "A climactic showdown between Spider-Man and Mysterio in a visually stunning battle",
+        "Characters": ["Peter Parker", "Mysterio", "Happy Hogan", "Nick Fury"]
+    },
+    {
+        "name": "movier7",
+        "description": "Doctor Strange confronts his dark self in a mind-bending multiverse journey",
+        "Characters": ["Doctor Strange", "Wong", "Christine Palmer", "Scarlet Witch"]
+    },
+    {
+        "name": "movier8",
+        "description": "The rise of Black Panther as he fights to protect Wakanda from internal and external threats",
+        "Characters": ["T'Challa", "Shuri", "Nakia", "Killmonger"]
+    },
+    {
+        "name": "movier9",
+        "description": "The Guardians of the Galaxy embark on a mission to save the universe from Ego's plan",
+        "Characters": ["Peter Quill", "Gamora", "Drax", "Yondu"]
+    },
+    {
+        "name": "movier10",
+        "description": "An epic battle where Captain Marvel leads the heroes against an alien invasion",
+        "Characters": ["Carol Danvers", "Nick Fury", "Maria Rambeau", "Talos"]
+    }
+]

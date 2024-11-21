@@ -187,3 +187,13 @@ nav ul li:hover {
     font-style: italic;
     color: #444;
 }
+.moviers {
+    opacity: 0; 
+    transform: translateX(-100px); 
+    transition: transform 0.5s ease, opacity 0.5s ease; 
+}
+
+.moviers.slide {
+    opacity: 1; 
+    transform: translateX(0); 
+}
