@@ -118,7 +118,7 @@ img:hover {
     line-height: 1.8;
 }
 
-/
+
 button {
     background-color: #38bdf8; 
     color: #fff;
@@ -135,14 +135,8 @@ button:hover {
     background-color: #0284c7; 
     transform: scale(1.1); 
 }
-/* الفوتر */
-footer {
-    margin-top: 30px;
-    font-size: 14px;
-    color: #94a3b8;
-    padding: 10px;
-    background-color: #0f172a; /
-}
+
+
 
                 </style>
             </head>
